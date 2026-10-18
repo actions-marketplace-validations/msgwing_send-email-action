@@ -1,3 +1,14 @@
+> **Notice: ZeroSMTP is being discontinued.** This action sends mail through the
+> ZeroSMTP relay (`mx.msgwing.com`), which stays active until **31 December
+> 2026** and is then switched off. After that date this action will no longer
+> work. Please move your workflows to another SMTP service before then.
+> Details: [msgwing/ZeroSMTP](https://github.com/msgwing/ZeroSMTP).
+>
+> **Uwaga: ZeroSMTP zostaje wyłączony.** Ta akcja wysyła pocztę przez przekaźnik
+> ZeroSMTP (`mx.msgwing.com`), który działa do **31 grudnia 2026**, a potem
+> zostanie wyłączony. Po tej dacie akcja przestanie działać. Przenieś swoje
+> workflowy do innej usługi SMTP przed tym terminem.
+
 # ZeroSMTP — Send Email (GitHub Action)
 
 [![Lint](https://github.com/msgwing/send-email-action/actions/workflows/lint.yml/badge.svg)](https://github.com/msgwing/send-email-action/actions/workflows/lint.yml)
